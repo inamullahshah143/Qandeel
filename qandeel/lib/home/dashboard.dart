@@ -191,32 +191,35 @@ class _DashboardState extends State<Dashboard>
 
   Future<List<BookCard>> getBooks() async {
     final books = <BookCard>[];
-    final String response =
-        await rootBundle.loadString('assets/json/books.json');
-    final data = await json.decode(response);
-    for (var item in data['books']) {
-      if (item['type'] == widget.contentType) {
+
+    await rootBundle
+        .loadString('assets/json/books.json')
+        .then((response) async {
+      var data = json.decode(response);
+      for (var item in data['books']) {
         await PdfDocument.openAsset(
                 'assets/books/${item['type']}/${item['src']}')
             .then((doc) async {
           await doc.getPage(1).then((page) async {
             await page.render().then((pageImage) async {
               await pageImage.createImageIfNotAvailable().whenComplete(() {
-                books.add(
-                  BookCard(
-                    title: item['title'],
-                    auther: item['auther'],
-                    url: "${item['type']}/${item['src']}",
-                    thumbnail: pageImage.imageIfAvailable ??
-                        pageImage.createImageDetached(),
-                  ),
-                );
+                if (item['type'] == widget.contentType) {
+                  books.add(
+                    BookCard(
+                      title: item['title'],
+                      auther: item['auther'],
+                      url: "${item['type']}/${item['src']}",
+                      thumbnail: pageImage.imageIfAvailable ??
+                          pageImage.createImageDetached(),
+                    ),
+                  );
+                }
               });
             });
           });
         });
       }
-    }
+    });
     return books;
   }
 
