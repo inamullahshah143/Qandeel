@@ -131,7 +131,7 @@ class _DashboardState extends State<Dashboard>
                                   ),
                                 ),
                               )
-                            : snapshot.hasData
+                            : snapshot.connectionState == ConnectionState.done
                                 ? Padding(
                                     padding: const EdgeInsets.all(8.0),
                                     child: GridView.builder(
@@ -156,7 +156,7 @@ class _DashboardState extends State<Dashboard>
                       future: getAuthers(),
                       builder: (context, snapshot) {
                         return snapshot.connectionState ==
-                                ConnectionState.waiting
+                                ConnectionState.active
                             ? Padding(
                                 padding: const EdgeInsets.all(10.0),
                                 child: Center(
@@ -165,7 +165,7 @@ class _DashboardState extends State<Dashboard>
                                   ),
                                 ),
                               )
-                            : snapshot.hasData
+                            : snapshot.connectionState == ConnectionState.done
                                 ? Padding(
                                     padding: EdgeInsets.all(8.0),
                                     child: ListView.builder(
@@ -191,19 +191,18 @@ class _DashboardState extends State<Dashboard>
 
   Future<List<BookCard>> getBooks() async {
     final books = <BookCard>[];
-
     await rootBundle
         .loadString('assets/json/books.json')
         .then((response) async {
       var data = json.decode(response);
-      for (var item in data['books']) {
-        await PdfDocument.openAsset(
-                'assets/books/${item['type']}/${item['src']}')
-            .then((doc) async {
-          await doc.getPage(1).then((page) async {
-            await page.render().then((pageImage) async {
-              await pageImage.createImageIfNotAvailable().whenComplete(() {
-                if (item['type'] == widget.contentType) {
+      for (var item in data) {
+        if (item['type'] == widget.contentType) {
+          await PdfDocument.openAsset(
+                  'assets/books/${item['type']}/${item['src']}')
+              .then((doc) async {
+            await doc.getPage(1).then((page) async {
+              await page.render().then((pageImage) async {
+                await pageImage.createImageIfNotAvailable().whenComplete(() {
                   books.add(
                     BookCard(
                       title: item['title'],
@@ -213,11 +212,11 @@ class _DashboardState extends State<Dashboard>
                           pageImage.createImageDetached(),
                     ),
                   );
-                }
+                });
               });
             });
           });
-        });
+        }
       }
     });
     return books;

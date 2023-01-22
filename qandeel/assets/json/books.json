@@ -1,982 +1,1286 @@
-{
-    "books": [
-        {
-            "title": "اچھوت لوگوں کا ادب",
-            "auther": "مبارک علی",
-            "src": "achhoot-logon-ka-adab-mubarak-ali-razi-abidi-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "برطانوی راج",
-            "auther": "مبارک علی",
-            "src": "bartanvi-raj-ek-tajziya-mubarak-ali-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "دیر سے نکلنے والا دن",
-            "auther": "جاوید شاہین",
-            "src": "der-se-nikalne-wala-din-javed-shaheen-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "دلہن اور مائیکرو فکشن",
-            "auther": "عقیل عباس",
-            "src": "dulhan-aur-dusre-micro-fiction-aqeel-abbas-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "فیشن",
-            "auther": "نامعلوم مصنف",
-            "src": "fashion-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "فیشن ایبل وائف",
-            "auther": "نامعلوم مصنف",
-            "src": "fashionable-wife-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "فکشن کی تنقید کا المیہ",
-            "auther": "وارث علوی",
-            "src": "fiction-ki-tanqeed-ka-almiya-waris-alvi-ebooks-2lang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "خواب سے باہر",
-            "auther": "فہیم شناس کاظمی",
-            "src": "khvaab-se-bahar-faheem-shanas-kazmi-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "کچھ غزلیں کچھ نظمیں",
-            "auther": "رضی عابدی",
-            "src": "kuch-ghazlen-kuch-nazmen-razi-abidi-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "سندھ کے صوفی شاعر",
-            "auther": "محمد ابراہیم جویو",
-            "src": "sindh-ke-sufi-shair-mohammad-ibrahim-joyo-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "اردو فکشن بنیادی و تشکیلی عناصر",
-            "auther": "اختر انصاری",
-            "src": "urdu-fiction-buniyadi-wa-tashkeeli-aanasir-akhtar-ansari-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "اردو فکشن : بنیادی وتشکیلی عناصر",
-            "auther": "اختر انصاری",
-            "src": "urdu-fiction-bunyadi-o-tashkeeli-anasir-ek-tareekhi-jaiza-akhtar-ansari-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "وہ عشق جو ہم سے روٹھ گیا",
-            "auther": "ازہر منیر",
-            "src": "wo-ishq-jo-ham-se-rooth-gaya-azhar-muneer-ebookslang=ur.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "دیوان فرید اردو",
-            "auther": "خواجہ غلام فرید",
-            "src": "deewan-e-fareed-urdu-khwaja-ghulam-fareed-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "دلچسپ شعر",
-            "auther": "اکبر الہ آبادی",
-            "src": "dilchasp-sher-akbar-allahabadi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "فن شاعری",
-            "auther": "سید ظہور احمد",
-            "src": "fan-e-shairi-syed-zuhur-ahmad-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "غالب کی شخصیت اور شاعری",
-            "auther": "رشید احمد صدیقی",
-            "src": "ghalib-ki-shakhsiat-aur-shairy-rasheed-ahmad-siddiqui-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "غزل بہا نہ کروں",
-            "auther": "احمد فراز",
-            "src": "ghazal-baha-na-karun-ahmad-faraz-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "غزل بہا نہ کروں",
-            "auther": "احمد فراز",
-            "src": "ghazal-majrooh-sultanpuri-ebooks-1lang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "غزالاں تم تو واقف ہو",
-            "auther": "ادا جعفری",
-            "src": "ghazalan-tum-to-waqif-ho-ada-jafri-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انکار",
-            "auther": "پروین شاکر",
-            "src": "inkar-parveen-shakir-ebooks-1lang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انکار",
-            "auther": "پروین شاکر",
-            "src": "inkar-parveen-shakir-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انتخاب کلام فیض احمد فیض",
-            "auther": "فیض احمد فیض",
-            "src": "intikhab-e-kalam-e-faiz-ahmad-faiz-faiz-ahmad-faiz-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انتخاب نظم راشد",
-            "auther": "سعادت سعید",
-            "src": "intikhab-e-nazm-e-rashid-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اقبال اور ملا",
-            "auther": "خلیفہ عبد الحکیم",
-            "src": "iqbal-aur-mulla-khaleefa-abdul-hakeem-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "عشق نامہ",
-            "auther": "عرفان صدیقی",
-            "src": "ishq-nama-irfan-siddiqi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "کبیر دوہاولی",
-            "auther": "سوامی شری یگلانند",
-            "src": "kabir-dohawali-swami-shri-yuglananad-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "کاروان غزل",
-            "auther": "سریش چندر چتربیدی",
-            "src": "karwan-e-ghazal-part-002-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "کفر و ایماں",
-            "auther": "ہری چند اختر",
-            "src": "kufr-o-iman-hari-chand-akhtar-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "ماں",
-            "auther": "منور رانا",
-            "src": "maan-munawwar-rana-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "میں رونا چاہتا ہوں",
-            "auther": "فرحت احساس",
-            "src": "main-rona-chahta-hoon-farhat-ehsas-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "مرثیہ مرزا غالب",
-            "auther": "الطاف حسین حالی",
-            "src": "marsiya-e-mirza-ghalib-altaf-hussain-hali-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "مثنوی حضرت شمس تبریز",
-            "auther": "شمس تبریزی",
-            "src": "masnavi-hazrat-shams-tabrez-masnavi-hazrat-fareed-ud-deen-attar-shams-tabrizi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "مناجات بیوہ",
-            "auther": "الطاف حسین حالی",
-            "src": "munajat-e-bewa-altaf-hussain-hali-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "منور نعتیں",
-            "auther": "منور بدایونی",
-            "src": "munawwar-naatein-munawwr-badayuni-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "نور نامہ",
-            "auther": "انوار حسین",
-            "src": "noor-nama-anwar-husain-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "پیاس کا دریا",
-            "auther": "بی کے ورما شیدی",
-            "src": "pyas-ka-dariya-b-k-verma-shaidi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "رہنمائے شاعری",
-            "auther": "افقر موہانی",
-            "src": "rahnuma-e-shayari-afqar-mohani-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "رقص مے",
-            "auther": "خمارؔ بارہ بنکوی",
-            "src": "raqs-e-mai-khumar-barabankavi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "1985 کا اقبالیاتی ادب ایک جائزہ",
-            "auther": "رفیع الدین ہاشمی",
-            "src": "1985-ka-iqbaliyati-adab-ek-jaiza-rafiuddin-hashmi-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "امیر خسرو",
-            "auther": "راج نرائن رائے",
-            "src": "ameer-khusrau-ebooks-2lang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "ہدیۂ اقبالیّہ",
-            "auther": "سید اقبال علی",
-            "src": "hadya-e-iqbaliyya-sayyad-iqbal-ali-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "حفیظ جالندھری کا فن",
-            "auther": "زرینہ رحمن",
-            "src": "hafeez-jalandhari-ka-fan-zareena-rahman-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "کردار اور کردار نگاری",
-            "auther": "نجم الہدیٰ",
-            "src": "kirdar-aur-kirdar-nigari-dr-najmul-hoda-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "مبادیات تحقیق",
-            "auther": "عبدالرزاق قریشی",
-            "src": "mabadiyat-e-tahqeeq-abdur-razzaq-qureshi-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "منٹو کا فن",
-            "auther": "وقار عظیم",
-            "src": "manto-ka-fan-waqar-azeem-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "تانیثیت اور اردو ادب روایت مسائل اور امکانات",
-            "auther": "سیما صغیر",
-            "src": "taneesiyat-aur-urdu-adab-riwayat-masail-aur-imkanat-seema-sagheer-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "اردو کی خواتین ناول نگار",
-            "auther": "ایس۔ کے۔ جبیں",
-            "src": "urdu-ki-khawateen-novel-nigar-s-k-jabeen-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "اردو مثنوی کا ارتقاء",
-            "auther": "عبدالقادر سروری",
-            "src": "urdu-masnavi-ka-irtiqa-abdul-qadir-sarwari-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "مشقی تدریس کیوں اور کیسے؟",
-            "auther": "محمد اکرام خاں",
-            "src": "mashqi-tadrees-kyon-aur-kaise-mohammad-ikram-khan-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "مولانا شبلی کے تاریخی مضامین",
-            "auther": "عبدالرحمٰن شوق امرتسری",
-            "src": "maulana-shibli-ke-tareekhi-mazamin-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "روش تدریس تربیت بدنی در مدارس",
-            "auther": "ڈاکٹر محمد نبوی",
-            "src": "ravish-tadrees-e-tarbiyat-e-badani-dar-madaris-dr-muhammad-nabvi-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "تاریخی حقائق",
-            "auther": "محمد صادق",
-            "src": "tareekhi-haqaiq-mohammad-sadiq-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "تشریحی اصطلاحات",
-            "auther": "حکیم محمد کبیرالدین",
-            "src": "tashreehi-istilahat-volume-001-hakeem-mohammad-kabiruddin-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "آئینہ حیات",
-            "auther": "ماسٹر نثار احمد",
-            "src": "aaina-e-hayat-master-nisar-ahmad-ebooks-1lang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "عکس (مراٹھی خاکوں کے اردو تراجم)",
-            "auther": "نامعلوم مصنف",
-            "src": "aks-marathi-khakon-ke-urdu-tarajim-ebookslang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "کوئی کوئی بات",
-            "auther": "جواد شیخ",
-            "src": "koi-koi-baat-jawad-sheikh-ebookslang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "مراٹھی شاعری کے اردو تراجم",
-            "auther": "یعقوب راہی",
-            "src": "marathi-shairi-ke-kuchh-urdu-tarajim-yaqoob-rahi-ebookslang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "مثنوی چراغ دیر",
-            "auther": "مرزا غالب",
-            "src": "masnawi-charagh-e-dair-ma-paanch-urdu-tarajim-mirza-ghalib-ebookslang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "پنڈت رتن ناتھ سرشار کے تراجم",
-            "auther": "عبدالرشید صدیقی",
-            "src": "pandit-ratan-nath-sarshar-ke-tarajim-ek-tanqidi-jayza-abdurrasheed-siddiqi-ebookslang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "وزارت قانون اور اسلامی نظریاتی کونسل کے اردو تراجم",
-            "auther": "نامعلوم مصنف",
-            "src": "wazarat-e-qanoon-aur-islami-nazriyati-council-ke-urdu-tarajim-unknown-author-ebookslang=ur.pdf",
-            "type": "translation"
-        },
-        {
-            "title": "آبنوسی خیال",
-            "auther": "عین رشید",
-            "src": "aabnoosi-khayal-ain-rashid-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اقبالی مجرم",
-            "auther": "شورش کاشمیری",
-            "src": "iqbali-mujrim-shorish-kashmiri-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اقبالیات",
-            "auther": "سمیع اللہ",
-            "src": "iqbaliyat-sameeullah-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "کسانوں کو زمینات کی فراہمی",
-            "auther": "نامعلوم مصنف",
-            "src": "kisanon-ko-zameenat-ki-farahami-unknown-author-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "مذہب و عقلیات",
-            "auther": "عبدالباری ندوی",
-            "src": "mazhab-o-aqliyat-abdul-bari-nadvi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "تعلیم زراعت",
-            "auther": "محمد عاقل خان",
-            "src": "taleem-e-zaraat-mohammad-aaqil-khan-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "تحقیق اقبالیات کے مآخذ",
-            "auther": "تحقیق اقبالیات کے مآخذ",
-            "src": "tehqeeq-e-iqbalyat-ke-makhaz-rafiuddin-hashmi-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "اردو مختصر افسانہ: فنی و تکنیکی مطالعہ",
-            "auther": "نگہت ریحانہ خان",
-            "src": "nigar-1957-01.pdf",
-            "type": "research"
-        },
-        {
-            "title": "ادبی اصناف",
-            "auther": "گیان چند جین",
-            "src": "adabi-insaf.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-1",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-1.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-2",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-2.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-3",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-3.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-4",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-4.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-5",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-5.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-7",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-7.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-8",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-8.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-9",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-9.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-10",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-10.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-11",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-11.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-12",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-12.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-13",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-13.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-14",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-14.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-15",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-15.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "urdu-nasar-ki-dasta-session-16",
-            "auther": "اے حمید",
-            "src": "urdu-nasar-ki-dasta-session-16.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "اردو فکشن تبیرو تفہیم",
-            "auther": "کہکشاں عرفان",
-            "src": "urdufiction_tabeer_tafheem-1.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "اردو اصنافِ ادب",
-            "auther": "عطا الرحمان نوری",
-            "src": "urduasnaf-e-adabbyataurrahmannoori-170505160031.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "اردو کی شعری اصناف",
-            "auther": "ڈاکٹر خواجہ انور",
-            "src": "urdu-ki-shayre.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اردو اصناف ادب",
-            "auther": "عطاالرحمن",
-            "src": "urdu-asnaf-1.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "ادب اور تہذیب",
-            "auther": "فرحت اللہ انصاری",
-            "src": "Adab-aur-Tahzeb.pdf",
-            "type": "text"
-        },
-        {
-            "title": "ادب کسے کہتے ہیں",
-            "auther": "اطہر پرویز",
-            "src": "adab-kise-kahte-hain-athar-parvez-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "ایک کہانی چھ ادیبوں کی زبانی",
-            "auther": "صادق الخیری",
-            "src": "Eik-Kahani-6-Adeebon-ki-Zabani.pdf",
-            "type": "text"
-        },
-        {
-            "title": "انسان اور آدمی",
-            "auther": "محمد حسن عسکری",
-            "src": "Insaan-Aur-Aadmi.pdf",
-            "type": "text"
-        },
-        {
-            "title": "کوئی کوئی بات",
-            "auther": "جواد شیخ",
-            "src": "koi-koi-baat-jawad-sheikh-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "قواعد",
-            "auther": "نامعلوم مصنف",
-            "src": "qawaid-unknown-author-ebooks-6.pdf",
-            "type": "text"
-        },
-        {
-            "title": "قواعد استفادہ عوام از کاغذات دفتر دیوانی سرکار عالی",
-            "auther": "نامعلوم مصنف",
-            "src": "qwayad-istifada-e-awam-az-kagazat-daftar-e-diwani-sarkar-e-aali-unknown-author-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "رپورٹ سال ششم مرکزی مجلس تعمیر ملت حیدرآباد",
-            "auther": "مظہر قادری",
-            "src": "report-saal-e-shashum-markazi-majlis-tameer-e-millat-hyderabad-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "اردو ادب کی ترقی پسند تحریک",
-            "auther": "احمد پراچۂ",
-            "src": "Urdu-Adab-Ki-Tarakki-Pasand-Tehreek.pdf",
-            "type": "text"
-        },
-        {
-            "title": "اردو کا ابتدائی زمانہ",
-            "auther": "شمس الرحمن فاروقی",
-            "src": "Urdu-ka-ibtedai-zamana_Shamsur-Rahman-Faruqi.pdf",
-            "type": "text"
-        },
-        {
-            "title": "اردو نثر کی ابتداء اور ارتقاء",
-            "auther": "آفتاب احمد صدیقی رودولوی",
-            "src": "urdu-nasr-ki-ibtida-aur-irtiqa-aaftab-ahmad-siddiqi-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "اردو میں کربلائی نثر کے اہم شہ پاروں کا تنقیدی مطالعہ (مقالہ)",
-            "auther": "روحی سلطان",
-            "src": "urdu-ma-karbalaye-nasar.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "غالب_کی_اردو_نثر_کا_تحقیقی_و_تنقیدی_جائزہ_مقالہ",
-            "auther": "نذرانہ رشید",
-            "src": "ghalib-ki-urdu-nasar.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "نظر اور نظریے.",
-            "auther": "آل احمد سرور",
-            "src": "nazar-or-nazreya.pdf",
-            "type": "text"
-        },
-        {
-            "title": "آب بقا",
-            "auther": "ماہر آروی",
-            "src": "aab-e-baqa-ghalib-ki-muntakhab-ghazlon-par-sheen-meem-arif-mahir-aarwi-ki-35-ghazlen-mahir-aarwi-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "آب کوثر",
-            "auther": "دلو رام کوثری",
-            "src": "aab-e-kausar-dillu-raam-kausari-ebooks-1.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "آب زر",
-            "auther": "اکرام کاوش",
-            "src": "aab-e-zar-ikram-kawish-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "آباد خرابہ",
-            "auther": "کشور ناہید",
-            "src": "aabad-kharaba-kishwar-naheed-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "آبنائے سخن",
-            "auther": "غازی امان",
-            "src": "aabna-e-sukhan-ghazi-aman-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "آبنائے",
-            "auther": "صابر ادیب",
-            "src": "aabnaye-sabir-adeeb-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "دستخط کیوں؟",
-            "auther": "نامعلوم مصنف",
-            "src": "dastakhat-kyun-unknown-author-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "دستورالعمل دستبند وحفاظت ذرائع آبپاشی",
-            "auther": "سید ابراہیم",
-            "src": "dastur-ul-amal-dastbandi-hifazat-zarae-abpashi-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اعجاز ناز",
-            "auther": "حکیم محمد اسحٰق",
-            "src": "ejaz-e-naz-lord-of-dehli-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "ہم تم",
-            "auther": "غلام احمد وکیل",
-            "src": "ham-tum-ghulam-ahmad-wakeel-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "ہماری قومی ضروریات",
-            "auther": "میاں بشیر احمد",
-            "src": "hamari-qaumi-zaruriyat-basheer-ahmad-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "حق اطلاع ایکٹ",
-            "auther": "شہزاد عالم",
-            "src": "haq-e-ittila-act-shahzad-aalam-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "ہدایت تامہ جواب قسم نامہ",
-            "auther": "فیض عام پریس، میرٹھ",
-            "src": "hidayat-e-tamma-jawab-e-qassamnama-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "جدید علم العروض",
-            "auther": "عبدالمجید",
-            "src": "Jadeed-Im-e-Arooz.pdf",
-            "type": "text"
-        },
-        {
-            "title": "مبادا",
-            "auther": "جون ایلیا",
-            "src": "mabada-jaun-eliya-ebookslang=ur-22.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "نئے بین الاقوامی معاشی تعلقات",
-            "auther": "نامعلوم مصنف",
-            "src": "naye-bain-ul-aqwami-maashi-talluqaat-masail-aur-haqaiq-unknown-author-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "رہنمائے شاعری",
-            "auther": "افقر موہانی",
-            "src": "rahnuma-e-shayari-afqar-mohani-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "روزگار",
-            "auther": "سید ظہور احمد",
-            "src": "rozgar-syed-zuhur-ahmad-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "شاعری کی پہلی کتاب",
-            "auther": "عشرت لکھنوی",
-            "src": "shaeri-ki-pahli-kitab-ishrat-lakhnawi-ebookslang=ur.pdf",
-            "type": "text"
-        },
-        {
-            "title": "شہر علم کے دروازے پر",
-            "auther": "افتخار عارف",
-            "src": "shahar-e-ilm-ke-darwaze-par-iftikhar-arif-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "شکوہ معہ جواب شکوہ",
-            "auther": "علامہ اقبال",
-            "src": "shikwa-ma-jawab-e-shikwa-allama-iqbal-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "شلوک شیخ بابا فرید گنج شکر",
-            "auther": "شیخ فرید",
-            "src": "shlok-shaikh-baba-fareed-ganj-shakar-shaikh-fareed-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "طلوع اشک",
-            "auther": "محسن نقوی",
-            "src": "tulu-e-ashk-mohsin-naqvi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اردو عروض ارتقائ مطالعہ",
-            "auther": "نامعلوم مصنف",
-            "src": "Urdu-Arooz-Irteqai-Mutala.pdf",
-            "type": "text"
-        },
-        {
-            "title": "اردوعلم عروض",
-            "auther": "عبد الصمد صارم",
-            "src": "Urdu-Arooz.pdf",
-            "type": "text"
-        },
-        {
-            "title": "یہ خانۂ آب وگل",
-            "auther": "مولانا جلال الدین رومی",
-            "src": "ye-khana-e-aab-o-gil-maulana-jalaluddin-rumi-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اے وائس فرام دی ایسٹ",
-            "auther": "ذوالفقار علی خان",
-            "src": "a-voice-from-the-east-the-poetry-of-iqbal-zul-fiqaar-ali-khan-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "آغاز سفر",
-            "auther": "محمد افتخار کھوکھر",
-            "src": "aaghaz-e-safar-ebooks.pdf",
-            "type": "research"
-        },
-        {
-            "title": "ادبی تنقید کے اصول",
-            "auther": "کلیم الدین احمد",
-            "src": "adabi-tanqeed-ke-usool-kaleemuddin-ahmad-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "افسانے کے قواعد",
-            "auther": "سکندر احمد",
-            "src": "afsane-ke-qawaid-sikandar-ahmad-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "ان پڑھ آندھی",
-            "auther": "اعزاز افضل",
-            "src": "an-padh-aandhi-ezaz-afzal-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انطی گونی",
-            "auther": "سوفوقل",
-            "src": "anti-goni-sophocles-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "بوطیقا",
-            "auther": "ارسطو",
-            "src": "boteeqa-arastu-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "دھنک",
-            "auther": "غلام عباس",
-            "src": "dhanak-ghulam-abbas-ebooks.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "ڈاکٹر علامہ اقبال کے شکوہ، جواب شکوہ کی نثری ترجمانی",
-            "auther": "علامہ اقبال",
-            "src": "dr-allama-iqbal-ke-shikwa-jawab-e-shikwa-ki-nasri-tarjumani-allama-iqbal-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "ڈاکٹر شفیق الرحمن",
-            "auther": "ریحانہ پروین",
-            "src": "dr-shafiqur-rahman-ek-mutala-rehana-parween-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "گئودان کا تنقیدی مطالعہ",
-            "auther": "انور کمال حسینی",
-            "src": "gaudan-ka-tanqeedi-mutala-anwar-kamal-husaini-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "غالب کی تہذیبی شخصیت",
-            "auther": "جیلانی کامران",
-            "src": "ghalib-ki-tahzeebi-shakhsiyat-jelani-kamran-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "حالی کی سوانح نگاری : حیات جاوید کی روشنی میں",
-            "auther": "ملک راشد فیصل",
-            "src": "hali-ki-sawaneh-nigari-hayat-javed-ki-roshni-mein-malik-rashid-faisal-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "ہاؤ ٹو ریڈ اقبال؟",
-            "auther": "شمس الرحمن فاروقی",
-            "src": "how-to-read-iqbal-shamsur-rahman-faruqi-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "میر تقی میر",
-            "auther": "امیر حسن نورانی",
-            "src": "meer-taqi-meer-halat-e-zindagi-ameer-hasan-nurani-ebookslang=ur.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "میر تقی میر کی جمالیات",
-            "auther": "شکیل الرحمن",
-            "src": "meer-taqi-meer-ki-jamaliyat-shakil-ur-rahman-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "پاکستان مل گیا",
-            "auther": "عبدالرزاق سعید",
-            "src": "pakistan-mil-gaya-abdurrazzaq-saeed-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "قدیم مغربی تنقید",
-            "auther": "وہاب اشرفی",
-            "src": "qadeem-maghrabi-tanqeed-vahaab-ashrafi-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "سیتا ہرن کا تنقیدی جائزہ",
-            "auther": "عائشہ سلطانہ",
-            "src": "seeta-haran-ka-tanqeedi-jaiza-ayesha-sultana-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "اردو کی شعری اصناف",
-            "auther": "خواجہ محمد اکرام الدین",
-            "src": "urdu-ki-sheri-asnaf-khwaja-mohammad-ikramuddin-ebookslang=ur.pdf",
-            "type": "research"
-        },
-        {
-            "title": "100 لفظوں کی سو کہانیاں",
-            "auther": "ریحان کوثر",
-            "src": "100-lafzon-ki-sau-kahaniyan-rehan-kausar-ebooks.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "1944 کی بہترین نظمیں",
-            "auther": "حلقۂ ارباب ذوق، لاہور",
-            "src": "1944-ki-behtareen-nazmen-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "1975 کی بہترین نظمیں",
-            "auther": "انور سدید",
-            "src": "1975-ki-behtareen-nazmein-ebooks.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "بہترین اردو لطیفے",
-            "auther": "نامعلوم مصنف",
-            "src": "urdu-latifa.pdf",
-            "type": "fiction"
-        },
-        {
-            "title": "انتخاب امیر مینائی",
-            "auther": "ا ریم انیمیئ",
-            "src": "5319.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انتخاب حفیظ ہوشیار پوری",
-            "auther": "اعجازعبید",
-            "src": "5320.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "انتخاب حسرتموهانی",
-            "auther": "اعجازعبید",
-            "src": "5321.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "مسدس حالی",
-            "auther": "الطاف حسین حالی",
-            "src": "5322.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "اے ہسٹری آف ویسٹرن صوفی ازم",
-            "auther": "اینڈریو رالنسن",
-            "src": "a-history-of-western-sufism-volume-001-andrew-rawlinson-ebooks.pdf",
-            "type": "research"
-        },
-        {
-            "title": "آئین اختیارات حفظان صحت",
-            "auther": "نامعلوم مصنف",
-            "src": "aaeen-e-ikhtiyarat-e-hifzan-e-sehat-unknown-author-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "آئین مجالس بلدی و قصبات",
-            "auther": "نامعلوم مصنف",
-            "src": "aaeen-e-majalis-e-baldi-o-qasbat-unknown-author-ebooks.pdf",
-            "type": "text"
-        },
-        {
-            "title": "انوکھی مجلس",
-            "auther": "ایم عنایت",
-            "src": "anokhi-majlis-m-inayat-1949.pdf",
-            "type": "poetry"
-        },
-        {
-            "title": "تبلیغی جماعت کے دعوت و تبلیغ اور اصلاح پر مضامین جلد 1",
-            "auther": "نامعلوم مصنف",
-            "src": "ArticlesOnDawatOTablighAndIslahOfTableeghiJamaatVol1.pdf",
-            "type": "text"
-        },
-        {
-            "title": "بین الاقوامی",
-            "auther": "نامعلوم مصنف",
-            "src": "bain-ul-aqwami-ittihad-unknown-author-ebooks.pdf",
-            "type": "text"
-        }
-    ]
-}
+[
+    {
+        "title": "اچھوت لوگوں کا ادب",
+        "auther": "مبارک علی",
+        "src": "achhoot-logon-ka-adab-mubarak-ali-razi-abidi-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "برطانوی راج",
+        "auther": "مبارک علی",
+        "src": "bartanvi-raj-ek-tajziya-mubarak-ali-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "دیر سے نکلنے والا دن",
+        "auther": "جاوید شاہین",
+        "src": "der-se-nikalne-wala-din-javed-shaheen-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "دلہن اور مائیکرو فکشن",
+        "auther": "عقیل عباس",
+        "src": "dulhan-aur-dusre-micro-fiction-aqeel-abbas-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "فیشن",
+        "auther": "نامعلوم مصنف",
+        "src": "fashion-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "فیشن ایبل وائف",
+        "auther": "نامعلوم مصنف",
+        "src": "fashionable-wife-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "فکشن کی تنقید کا المیہ",
+        "auther": "وارث علوی",
+        "src": "fiction-ki-tanqeed-ka-almiya-waris-alvi-ebooks-2lang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "خواب سے باہر",
+        "auther": "فہیم شناس کاظمی",
+        "src": "khvaab-se-bahar-faheem-shanas-kazmi-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "کچھ غزلیں کچھ نظمیں",
+        "auther": "رضی عابدی",
+        "src": "kuch-ghazlen-kuch-nazmen-razi-abidi-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "سندھ کے صوفی شاعر",
+        "auther": "محمد ابراہیم جویو",
+        "src": "sindh-ke-sufi-shair-mohammad-ibrahim-joyo-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "اردو فکشن بنیادی و تشکیلی عناصر",
+        "auther": "اختر انصاری",
+        "src": "urdu-fiction-buniyadi-wa-tashkeeli-aanasir-akhtar-ansari-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "اردو فکشن : بنیادی وتشکیلی عناصر",
+        "auther": "اختر انصاری",
+        "src": "urdu-fiction-bunyadi-o-tashkeeli-anasir-ek-tareekhi-jaiza-akhtar-ansari-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "وہ عشق جو ہم سے روٹھ گیا",
+        "auther": "ازہر منیر",
+        "src": "wo-ishq-jo-ham-se-rooth-gaya-azhar-muneer-ebookslang=ur.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "دیوان فرید اردو",
+        "auther": "خواجہ غلام فرید",
+        "src": "deewan-e-fareed-urdu-khwaja-ghulam-fareed-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "دلچسپ شعر",
+        "auther": "اکبر الہ آبادی",
+        "src": "dilchasp-sher-akbar-allahabadi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "فن شاعری",
+        "auther": "سید ظہور احمد",
+        "src": "fan-e-shairi-syed-zuhur-ahmad-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "غالب کی شخصیت اور شاعری",
+        "auther": "رشید احمد صدیقی",
+        "src": "ghalib-ki-shakhsiat-aur-shairy-rasheed-ahmad-siddiqui-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "غزل بہا نہ کروں",
+        "auther": "احمد فراز",
+        "src": "ghazal-baha-na-karun-ahmad-faraz-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "غزل بہا نہ کروں",
+        "auther": "احمد فراز",
+        "src": "ghazal-majrooh-sultanpuri-ebooks-1lang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "غزالاں تم تو واقف ہو",
+        "auther": "ادا جعفری",
+        "src": "ghazalan-tum-to-waqif-ho-ada-jafri-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انکار",
+        "auther": "پروین شاکر",
+        "src": "inkar-parveen-shakir-ebooks-1lang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انکار",
+        "auther": "پروین شاکر",
+        "src": "inkar-parveen-shakir-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انتخاب کلام فیض احمد فیض",
+        "auther": "فیض احمد فیض",
+        "src": "intikhab-e-kalam-e-faiz-ahmad-faiz-faiz-ahmad-faiz-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انتخاب نظم راشد",
+        "auther": "سعادت سعید",
+        "src": "intikhab-e-nazm-e-rashid-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اقبال اور ملا",
+        "auther": "خلیفہ عبد الحکیم",
+        "src": "iqbal-aur-mulla-khaleefa-abdul-hakeem-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "عشق نامہ",
+        "auther": "عرفان صدیقی",
+        "src": "ishq-nama-irfan-siddiqi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "کبیر دوہاولی",
+        "auther": "سوامی شری یگلانند",
+        "src": "kabir-dohawali-swami-shri-yuglananad-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "کاروان غزل",
+        "auther": "سریش چندر چتربیدی",
+        "src": "karwan-e-ghazal-part-002-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "کفر و ایماں",
+        "auther": "ہری چند اختر",
+        "src": "kufr-o-iman-hari-chand-akhtar-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "ماں",
+        "auther": "منور رانا",
+        "src": "maan-munawwar-rana-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "میں رونا چاہتا ہوں",
+        "auther": "فرحت احساس",
+        "src": "main-rona-chahta-hoon-farhat-ehsas-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "مرثیہ مرزا غالب",
+        "auther": "الطاف حسین حالی",
+        "src": "marsiya-e-mirza-ghalib-altaf-hussain-hali-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "مثنوی حضرت شمس تبریز",
+        "auther": "شمس تبریزی",
+        "src": "masnavi-hazrat-shams-tabrez-masnavi-hazrat-fareed-ud-deen-attar-shams-tabrizi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "مناجات بیوہ",
+        "auther": "الطاف حسین حالی",
+        "src": "munajat-e-bewa-altaf-hussain-hali-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "منور نعتیں",
+        "auther": "منور بدایونی",
+        "src": "munawwar-naatein-munawwr-badayuni-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "نور نامہ",
+        "auther": "انوار حسین",
+        "src": "noor-nama-anwar-husain-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "پیاس کا دریا",
+        "auther": "بی کے ورما شیدی",
+        "src": "pyas-ka-dariya-b-k-verma-shaidi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "رہنمائے شاعری",
+        "auther": "افقر موہانی",
+        "src": "rahnuma-e-shayari-afqar-mohani-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "رقص مے",
+        "auther": "خمارؔ بارہ بنکوی",
+        "src": "raqs-e-mai-khumar-barabankavi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "1985 کا اقبالیاتی ادب ایک جائزہ",
+        "auther": "رفیع الدین ہاشمی",
+        "src": "1985-ka-iqbaliyati-adab-ek-jaiza-rafiuddin-hashmi-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "امیر خسرو",
+        "auther": "راج نرائن رائے",
+        "src": "ameer-khusrau-ebooks-2lang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "ہدیۂ اقبالیّہ",
+        "auther": "سید اقبال علی",
+        "src": "hadya-e-iqbaliyya-sayyad-iqbal-ali-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "حفیظ جالندھری کا فن",
+        "auther": "زرینہ رحمن",
+        "src": "hafeez-jalandhari-ka-fan-zareena-rahman-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "کردار اور کردار نگاری",
+        "auther": "نجم الہدیٰ",
+        "src": "kirdar-aur-kirdar-nigari-dr-najmul-hoda-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "مبادیات تحقیق",
+        "auther": "عبدالرزاق قریشی",
+        "src": "mabadiyat-e-tahqeeq-abdur-razzaq-qureshi-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "منٹو کا فن",
+        "auther": "وقار عظیم",
+        "src": "manto-ka-fan-waqar-azeem-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "تانیثیت اور اردو ادب روایت مسائل اور امکانات",
+        "auther": "سیما صغیر",
+        "src": "taneesiyat-aur-urdu-adab-riwayat-masail-aur-imkanat-seema-sagheer-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "اردو کی خواتین ناول نگار",
+        "auther": "ایس۔ کے۔ جبیں",
+        "src": "urdu-ki-khawateen-novel-nigar-s-k-jabeen-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "اردو مثنوی کا ارتقاء",
+        "auther": "عبدالقادر سروری",
+        "src": "urdu-masnavi-ka-irtiqa-abdul-qadir-sarwari-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "مشقی تدریس کیوں اور کیسے؟",
+        "auther": "محمد اکرام خاں",
+        "src": "mashqi-tadrees-kyon-aur-kaise-mohammad-ikram-khan-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "مولانا شبلی کے تاریخی مضامین",
+        "auther": "عبدالرحمٰن شوق امرتسری",
+        "src": "maulana-shibli-ke-tareekhi-mazamin-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "روش تدریس تربیت بدنی در مدارس",
+        "auther": "ڈاکٹر محمد نبوی",
+        "src": "ravish-tadrees-e-tarbiyat-e-badani-dar-madaris-dr-muhammad-nabvi-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "تاریخی حقائق",
+        "auther": "محمد صادق",
+        "src": "tareekhi-haqaiq-mohammad-sadiq-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "تشریحی اصطلاحات",
+        "auther": "حکیم محمد کبیرالدین",
+        "src": "tashreehi-istilahat-volume-001-hakeem-mohammad-kabiruddin-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "آئینہ حیات",
+        "auther": "ماسٹر نثار احمد",
+        "src": "aaina-e-hayat-master-nisar-ahmad-ebooks-1lang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "عکس (مراٹھی خاکوں کے اردو تراجم)",
+        "auther": "نامعلوم مصنف",
+        "src": "aks-marathi-khakon-ke-urdu-tarajim-ebookslang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "کوئی کوئی بات",
+        "auther": "جواد شیخ",
+        "src": "koi-koi-baat-jawad-sheikh-ebookslang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "مراٹھی شاعری کے اردو تراجم",
+        "auther": "یعقوب راہی",
+        "src": "marathi-shairi-ke-kuchh-urdu-tarajim-yaqoob-rahi-ebookslang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "مثنوی چراغ دیر",
+        "auther": "مرزا غالب",
+        "src": "masnawi-charagh-e-dair-ma-paanch-urdu-tarajim-mirza-ghalib-ebookslang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "پنڈت رتن ناتھ سرشار کے تراجم",
+        "auther": "عبدالرشید صدیقی",
+        "src": "pandit-ratan-nath-sarshar-ke-tarajim-ek-tanqidi-jayza-abdurrasheed-siddiqi-ebookslang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "وزارت قانون اور اسلامی نظریاتی کونسل کے اردو تراجم",
+        "auther": "نامعلوم مصنف",
+        "src": "wazarat-e-qanoon-aur-islami-nazriyati-council-ke-urdu-tarajim-unknown-author-ebookslang=ur.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "آبنوسی خیال",
+        "auther": "عین رشید",
+        "src": "aabnoosi-khayal-ain-rashid-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اقبالی مجرم",
+        "auther": "شورش کاشمیری",
+        "src": "iqbali-mujrim-shorish-kashmiri-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اقبالیات",
+        "auther": "سمیع اللہ",
+        "src": "iqbaliyat-sameeullah-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "کسانوں کو زمینات کی فراہمی",
+        "auther": "نامعلوم مصنف",
+        "src": "kisanon-ko-zameenat-ki-farahami-unknown-author-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "مذہب و عقلیات",
+        "auther": "عبدالباری ندوی",
+        "src": "mazhab-o-aqliyat-abdul-bari-nadvi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "تعلیم زراعت",
+        "auther": "محمد عاقل خان",
+        "src": "taleem-e-zaraat-mohammad-aaqil-khan-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "تحقیق اقبالیات کے مآخذ",
+        "auther": "تحقیق اقبالیات کے مآخذ",
+        "src": "tehqeeq-e-iqbalyat-ke-makhaz-rafiuddin-hashmi-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "اردو مختصر افسانہ: فنی و تکنیکی مطالعہ",
+        "auther": "نگہت ریحانہ خان",
+        "src": "nigar-1957-01.pdf",
+        "type": "research"
+    },
+    {
+        "title": "ادبی اصناف",
+        "auther": "گیان چند جین",
+        "src": "adabi-insaf.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-1",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-1.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-2",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-2.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-3",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-3.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-4",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-4.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-5",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-5.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-7",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-7.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-8",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-8.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-9",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-9.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-10",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-10.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-11",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-11.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-12",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-12.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-13",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-13.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-14",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-14.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-15",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-15.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "urdu-nasar-ki-dasta-session-16",
+        "auther": "اے حمید",
+        "src": "urdu-nasar-ki-dasta-session-16.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "اردو فکشن تبیرو تفہیم",
+        "auther": "کہکشاں عرفان",
+        "src": "urdufiction_tabeer_tafheem-1.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "اردو اصنافِ ادب",
+        "auther": "عطا الرحمان نوری",
+        "src": "urduasnaf-e-adabbyataurrahmannoori-170505160031.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "اردو کی شعری اصناف",
+        "auther": "ڈاکٹر خواجہ انور",
+        "src": "urdu-ki-shayre.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اردو اصناف ادب",
+        "auther": "عطاالرحمن",
+        "src": "urdu-asnaf-1.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "ادب اور تہذیب",
+        "auther": "فرحت اللہ انصاری",
+        "src": "Adab-aur-Tahzeb.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ادب کسے کہتے ہیں",
+        "auther": "اطہر پرویز",
+        "src": "adab-kise-kahte-hain-athar-parvez-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ایک کہانی چھ ادیبوں کی زبانی",
+        "auther": "صادق الخیری",
+        "src": "Eik-Kahani-6-Adeebon-ki-Zabani.pdf",
+        "type": "text"
+    },
+    {
+        "title": "انسان اور آدمی",
+        "auther": "محمد حسن عسکری",
+        "src": "Insaan-Aur-Aadmi.pdf",
+        "type": "text"
+    },
+    {
+        "title": "کوئی کوئی بات",
+        "auther": "جواد شیخ",
+        "src": "koi-koi-baat-jawad-sheikh-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "قواعد",
+        "auther": "نامعلوم مصنف",
+        "src": "qawaid-unknown-author-ebooks-6.pdf",
+        "type": "text"
+    },
+    {
+        "title": "قواعد استفادہ عوام از کاغذات دفتر دیوانی سرکار عالی",
+        "auther": "نامعلوم مصنف",
+        "src": "qwayad-istifada-e-awam-az-kagazat-daftar-e-diwani-sarkar-e-aali-unknown-author-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "رپورٹ سال ششم مرکزی مجلس تعمیر ملت حیدرآباد",
+        "auther": "مظہر قادری",
+        "src": "report-saal-e-shashum-markazi-majlis-tameer-e-millat-hyderabad-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "اردو ادب کی ترقی پسند تحریک",
+        "auther": "احمد پراچۂ",
+        "src": "Urdu-Adab-Ki-Tarakki-Pasand-Tehreek.pdf",
+        "type": "text"
+    },
+    {
+        "title": "اردو کا ابتدائی زمانہ",
+        "auther": "شمس الرحمن فاروقی",
+        "src": "Urdu-ka-ibtedai-zamana_Shamsur-Rahman-Faruqi.pdf",
+        "type": "text"
+    },
+    {
+        "title": "اردو نثر کی ابتداء اور ارتقاء",
+        "auther": "آفتاب احمد صدیقی رودولوی",
+        "src": "urdu-nasr-ki-ibtida-aur-irtiqa-aaftab-ahmad-siddiqi-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "اردو میں کربلائی نثر کے اہم شہ پاروں کا تنقیدی مطالعہ (مقالہ)",
+        "auther": "روحی سلطان",
+        "src": "urdu-ma-karbalaye-nasar.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "غالب_کی_اردو_نثر_کا_تحقیقی_و_تنقیدی_جائزہ_مقالہ",
+        "auther": "نذرانہ رشید",
+        "src": "ghalib-ki-urdu-nasar.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "نظر اور نظریے.",
+        "auther": "آل احمد سرور",
+        "src": "nazar-or-nazreya.pdf",
+        "type": "text"
+    },
+    {
+        "title": "آب بقا",
+        "auther": "ماہر آروی",
+        "src": "aab-e-baqa-ghalib-ki-muntakhab-ghazlon-par-sheen-meem-arif-mahir-aarwi-ki-35-ghazlen-mahir-aarwi-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "آب کوثر",
+        "auther": "دلو رام کوثری",
+        "src": "aab-e-kausar-dillu-raam-kausari-ebooks-1.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "آب زر",
+        "auther": "اکرام کاوش",
+        "src": "aab-e-zar-ikram-kawish-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "آباد خرابہ",
+        "auther": "کشور ناہید",
+        "src": "aabad-kharaba-kishwar-naheed-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "آبنائے سخن",
+        "auther": "غازی امان",
+        "src": "aabna-e-sukhan-ghazi-aman-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "آبنائے",
+        "auther": "صابر ادیب",
+        "src": "aabnaye-sabir-adeeb-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "دستخط کیوں؟",
+        "auther": "نامعلوم مصنف",
+        "src": "dastakhat-kyun-unknown-author-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "دستورالعمل دستبند وحفاظت ذرائع آبپاشی",
+        "auther": "سید ابراہیم",
+        "src": "dastur-ul-amal-dastbandi-hifazat-zarae-abpashi-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اعجاز ناز",
+        "auther": "حکیم محمد اسحٰق",
+        "src": "ejaz-e-naz-lord-of-dehli-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ہم تم",
+        "auther": "غلام احمد وکیل",
+        "src": "ham-tum-ghulam-ahmad-wakeel-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ہماری قومی ضروریات",
+        "auther": "میاں بشیر احمد",
+        "src": "hamari-qaumi-zaruriyat-basheer-ahmad-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "حق اطلاع ایکٹ",
+        "auther": "شہزاد عالم",
+        "src": "haq-e-ittila-act-shahzad-aalam-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ہدایت تامہ جواب قسم نامہ",
+        "auther": "فیض عام پریس، میرٹھ",
+        "src": "hidayat-e-tamma-jawab-e-qassamnama-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "جدید علم العروض",
+        "auther": "عبدالمجید",
+        "src": "Jadeed-Im-e-Arooz.pdf",
+        "type": "text"
+    },
+    {
+        "title": "مبادا",
+        "auther": "جون ایلیا",
+        "src": "mabada-jaun-eliya-ebookslang=ur-22.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "نئے بین الاقوامی معاشی تعلقات",
+        "auther": "نامعلوم مصنف",
+        "src": "naye-bain-ul-aqwami-maashi-talluqaat-masail-aur-haqaiq-unknown-author-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "رہنمائے شاعری",
+        "auther": "افقر موہانی",
+        "src": "rahnuma-e-shayari-afqar-mohani-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "روزگار",
+        "auther": "سید ظہور احمد",
+        "src": "rozgar-syed-zuhur-ahmad-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "شاعری کی پہلی کتاب",
+        "auther": "عشرت لکھنوی",
+        "src": "shaeri-ki-pahli-kitab-ishrat-lakhnawi-ebookslang=ur.pdf",
+        "type": "text"
+    },
+    {
+        "title": "شہر علم کے دروازے پر",
+        "auther": "افتخار عارف",
+        "src": "shahar-e-ilm-ke-darwaze-par-iftikhar-arif-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "شکوہ معہ جواب شکوہ",
+        "auther": "علامہ اقبال",
+        "src": "shikwa-ma-jawab-e-shikwa-allama-iqbal-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "شلوک شیخ بابا فرید گنج شکر",
+        "auther": "شیخ فرید",
+        "src": "shlok-shaikh-baba-fareed-ganj-shakar-shaikh-fareed-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "طلوع اشک",
+        "auther": "محسن نقوی",
+        "src": "tulu-e-ashk-mohsin-naqvi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اردو عروض ارتقائ مطالعہ",
+        "auther": "نامعلوم مصنف",
+        "src": "Urdu-Arooz-Irteqai-Mutala.pdf",
+        "type": "text"
+    },
+    {
+        "title": "اردوعلم عروض",
+        "auther": "عبد الصمد صارم",
+        "src": "Urdu-Arooz.pdf",
+        "type": "text"
+    },
+    {
+        "title": "یہ خانۂ آب وگل",
+        "auther": "مولانا جلال الدین رومی",
+        "src": "ye-khana-e-aab-o-gil-maulana-jalaluddin-rumi-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اے وائس فرام دی ایسٹ",
+        "auther": "ذوالفقار علی خان",
+        "src": "a-voice-from-the-east-the-poetry-of-iqbal-zul-fiqaar-ali-khan-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "آغاز سفر",
+        "auther": "محمد افتخار کھوکھر",
+        "src": "aaghaz-e-safar-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "ادبی تنقید کے اصول",
+        "auther": "کلیم الدین احمد",
+        "src": "adabi-tanqeed-ke-usool-kaleemuddin-ahmad-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "افسانے کے قواعد",
+        "auther": "سکندر احمد",
+        "src": "afsane-ke-qawaid-sikandar-ahmad-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "ان پڑھ آندھی",
+        "auther": "اعزاز افضل",
+        "src": "an-padh-aandhi-ezaz-afzal-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انطی گونی",
+        "auther": "سوفوقل",
+        "src": "anti-goni-sophocles-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "بوطیقا",
+        "auther": "ارسطو",
+        "src": "boteeqa-arastu-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "دھنک",
+        "auther": "غلام عباس",
+        "src": "dhanak-ghulam-abbas-ebooks.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "ڈاکٹر علامہ اقبال کے شکوہ، جواب شکوہ کی نثری ترجمانی",
+        "auther": "علامہ اقبال",
+        "src": "dr-allama-iqbal-ke-shikwa-jawab-e-shikwa-ki-nasri-tarjumani-allama-iqbal-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "ڈاکٹر شفیق الرحمن",
+        "auther": "ریحانہ پروین",
+        "src": "dr-shafiqur-rahman-ek-mutala-rehana-parween-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "گئودان کا تنقیدی مطالعہ",
+        "auther": "انور کمال حسینی",
+        "src": "gaudan-ka-tanqeedi-mutala-anwar-kamal-husaini-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "غالب کی تہذیبی شخصیت",
+        "auther": "جیلانی کامران",
+        "src": "ghalib-ki-tahzeebi-shakhsiyat-jelani-kamran-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "حالی کی سوانح نگاری : حیات جاوید کی روشنی میں",
+        "auther": "ملک راشد فیصل",
+        "src": "hali-ki-sawaneh-nigari-hayat-javed-ki-roshni-mein-malik-rashid-faisal-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "ہاؤ ٹو ریڈ اقبال؟",
+        "auther": "شمس الرحمن فاروقی",
+        "src": "how-to-read-iqbal-shamsur-rahman-faruqi-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "میر تقی میر",
+        "auther": "امیر حسن نورانی",
+        "src": "meer-taqi-meer-halat-e-zindagi-ameer-hasan-nurani-ebookslang=ur.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "میر تقی میر کی جمالیات",
+        "auther": "شکیل الرحمن",
+        "src": "meer-taqi-meer-ki-jamaliyat-shakil-ur-rahman-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "پاکستان مل گیا",
+        "auther": "عبدالرزاق سعید",
+        "src": "pakistan-mil-gaya-abdurrazzaq-saeed-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "قدیم مغربی تنقید",
+        "auther": "وہاب اشرفی",
+        "src": "qadeem-maghrabi-tanqeed-vahaab-ashrafi-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "سیتا ہرن کا تنقیدی جائزہ",
+        "auther": "عائشہ سلطانہ",
+        "src": "seeta-haran-ka-tanqeedi-jaiza-ayesha-sultana-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "اردو کی شعری اصناف",
+        "auther": "خواجہ محمد اکرام الدین",
+        "src": "urdu-ki-sheri-asnaf-khwaja-mohammad-ikramuddin-ebookslang=ur.pdf",
+        "type": "research"
+    },
+    {
+        "title": "100 لفظوں کی سو کہانیاں",
+        "auther": "ریحان کوثر",
+        "src": "100-lafzon-ki-sau-kahaniyan-rehan-kausar-ebooks.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "1944 کی بہترین نظمیں",
+        "auther": "حلقۂ ارباب ذوق، لاہور",
+        "src": "1944-ki-behtareen-nazmen-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "1975 کی بہترین نظمیں",
+        "auther": "انور سدید",
+        "src": "1975-ki-behtareen-nazmein-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "بہترین اردو لطیفے",
+        "auther": "نامعلوم مصنف",
+        "src": "urdu-latifa.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "انتخاب امیر مینائی",
+        "auther": "ا ریم انیمیئ",
+        "src": "5319.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انتخاب حفیظ ہوشیار پوری",
+        "auther": "اعجازعبید",
+        "src": "5320.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "انتخاب حسرتموهانی",
+        "auther": "اعجازعبید",
+        "src": "5321.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "مسدس حالی",
+        "auther": "الطاف حسین حالی",
+        "src": "5322.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "اے ہسٹری آف ویسٹرن صوفی ازم",
+        "auther": "اینڈریو رالنسن",
+        "src": "a-history-of-western-sufism-volume-001-andrew-rawlinson-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "آئین اختیارات حفظان صحت",
+        "auther": "نامعلوم مصنف",
+        "src": "aaeen-e-ikhtiyarat-e-hifzan-e-sehat-unknown-author-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "آئین مجالس بلدی و قصبات",
+        "auther": "نامعلوم مصنف",
+        "src": "aaeen-e-majalis-e-baldi-o-qasbat-unknown-author-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "انوکھی مجلس",
+        "auther": "ایم عنایت",
+        "src": "anokhi-majlis-m-inayat-1949.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "تبلیغی جماعت کے دعوت و تبلیغ اور اصلاح پر مضامین جلد 1",
+        "auther": "نامعلوم مصنف",
+        "src": "ArticlesOnDawatOTablighAndIslahOfTableeghiJamaatVol1.pdf",
+        "type": "text"
+    },
+    {
+        "title": "بین الاقوامی",
+        "auther": "نامعلوم مصنف",
+        "src": "bain-ul-aqwami-ittihad-unknown-author-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "آب حیات کا تنقیدی مطالعہ",
+        "auther": "سید مسعود حسن رضوی ادیب",
+        "src": "aab-e-hayat-ka-tanqeedi-mutala-syed-masood-hasan-rizwi-adeeb-ebooks-1.pdf",
+        "type": "research"
+    },
+    {
+        "title": "عادل اسیر دہلوی : ایک ہما اصناف شاعر",
+        "auther": "عظیم اختر",
+        "src": "aadil-aseer-dehlavi-ek-hama-asnaf-shair-azeem-akhtar-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "عادل اسیر دہلوی ایک مطالعہ",
+        "auther": "فیروز مظفر",
+        "src": "aadil-aseer-dehlavi-ek-mutala-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "عادل اسیر دھلوی",
+        "auther": "سید معصوم رضا",
+        "src": "aadil-aseer-dehlavi-shakhsiyat-aur-fan-sayyad-masoom-raza-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "آدمی آدمی انتر",
+        "auther": "سید انیس شاہ جیلانی",
+        "src": "aadmi-aadmi-antar-ebooks.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "آئینہ جہاں نما",
+        "auther": "میر ولایت علی",
+        "src": "aaina-e-jahan-numa-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "آئینہ خود شناسی",
+        "auther": "منشی نجم الدین قادری",
+        "src": "aaina-e-khud-shanasi-tasawwuf-ki-benazeer-kitab-munshi-najmuddin-qadri-ebooks-1.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "آل احمد سرور",
+        "auther": "امتیاز احمد",
+        "src": "aale-ahmad-suroor-hindustani-adab-ke-memar-imtiyaz-ahmad-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "آئیے اپنے دیش کو بچائیں",
+        "auther": "جاوید اشرف قاسمی",
+        "src": "aaye-apne-desh-ko-bachayen-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "آئینئہ غوثی",
+        "auther": "سدیدالدین اصدق ہاشمی",
+        "src": "aayina-e-ghausi-sadeeduddin-asdaq-hashmi-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "عبد القادر جیلانی کے نادان دوست",
+        "auther": "نامعلوم مصنف",
+        "src": "abdul-qadir-jilani-ke-nadan-dost-unknown-author-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "آبگینئہ آنند",
+        "auther": "بابا گلاب چند",
+        "src": "abgeena-e-aanand-volume-001-baba-gulab-chand-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ابوالخمر",
+        "auther": "لیو ٹالسٹائی",
+        "src": "abul-khamr-leo-tolstoy-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "ادب اور تصوف",
+        "auther": "حیات عامر حسینی",
+        "src": "adab-aur-tasavvuf-hayat-aamir-husaini-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "افکار اقبال",
+        "auther": "صابر ابو ہری",
+        "src": "afkar-e-iqbal-iqbal-ke-muntakhab-farsi-kalam-ka-manzoom-urdu-tarjuma-sabir-abuhari-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "افکار منتشر",
+        "auther": "بدر اورنگ آبادی",
+        "src": "afkar-e-muntashar-badar-aurangabadi-ebookstoc=1.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "افسانے کے قواعد",
+        "auther": "سکندر احمد",
+        "src": "afsane-ke-qawaid-sikandar-ahmad-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "عہد نبوی کے سیاست کاری کے اصول",
+        "auther": "ڈاکٹر محمد حمیداللہ",
+        "src": "ahd-e-nabvi-ke-siyasatkari-ke-usool-dr-mohammad-hameedullah-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "احمر جےپوری",
+        "auther": "سید منظور احمد ادیب",
+        "src": "ahmar-jaipuri-syed-manzoor-ahmad-adeeb-ebooks.pdf",
+        "type": "poetry"
+    },
+    {
+        "title": "احسن القصص",
+        "auther": "محمد بدر الدین",
+        "src": "ahsan-ul-qasas-mohammad-badaruddin-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "نئی تہذیبی سیاست اور بدلتے ہوئے اقدار",
+        "auther": "شمس الرحمن فاروقی",
+        "src": "akbar-allahabadi-nai-tahzibi-siyasat-aur-badalte-huye-aqdar-shamsur-rahman-faruqi-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "علی گڑھ تحریک",
+        "auther": "عشرت علی قریشی",
+        "src": "aligarh-tahreek-ek-taaruf-ishrat-ali-qureshi-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "علامہ اقبال کی آخری خواہش",
+        "auther": "عاکف سعید",
+        "src": "allama-iqbal-ki-aakhri-khuwaish-ebooks.pdf",
+        "type": "research"
+    },
+    {
+        "title": "اقبال اور عشق رسول",
+        "auther": "سید محمد عبدالرشید",
+        "src": "allama-iqbal-sayyad-mohammad-abdurrashid-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "امیر خسرو",
+        "auther": "فصیح اکمل",
+        "src": "ameer-khusrau-musical-opera-fasih-akmal-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "عقد ثریا",
+        "auther": "مصحفی غلام ہمدانی",
+        "src": "aqd-e-surayya-talkhees-o-tarjuma-mushafi-ghulam-hamdani-ebooks-1.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "ارمغان حجاز فارسی",
+        "auther": "علامہ اقبال",
+        "src": "armughan-e-hijaz-farsi-manzoom-urdu-tarjuma-allama-iqbal-ebooks-5.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "اسرار الصلوٰۃ",
+        "auther": "خواجہ میر درد",
+        "src": "asrar-us-salaat-khwaja-meer-dard-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "التبلیغ کا اکتالیسواں وعظ مسمی بہ تقلیل المنام بصورۃ القیام",
+        "auther": "مولانا اشرف علی تھانوی",
+        "src": "at-tableegh-ka-iktaliswan-waz-musamma-bihi-taqleel-ul-manam-bisooratil-qayam-part-002-maulana-ashraf-ali-thanvi-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "اودھوت کا ترانہ",
+        "auther": "آدرش کتاب گھر، دہلی",
+        "src": "audhoot-ka-tarana-naghma-e-qalandari-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "باہو",
+        "auther": "حضرت سلطان باہو",
+        "src": "baahu-sultaniya-baahu-ke-panjabi-ashaar-ka-urdu-tarjuma-hazrat-sultan-bahu-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "ببول کے پیڑ",
+        "auther": "سٹینلےکارناو",
+        "src": "babool-ke-ped-satnley-karnow-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "بھارتیندو ہریش چندر",
+        "auther": "مدن گوپال",
+        "src": "bharatendu-harishchandra-hindustani-adab-ke-memar-madan-gopal-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "2 دستنبو",
+        "auther": "مرزا غالب",
+        "src": "dastambu-mirza-ghalib-ebooks-2.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "دستنبو",
+        "auther": "مرزا غالب",
+        "src": "dastambu-mirza-ghalib-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "داستان ریختہ",
+        "auther": "خواجہ عبدالمجید",
+        "src": "dastan-e-rekhta-khvaajaa-abdul-majiid-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "دیہات کی قوت و طاقت کا سرچشمہ",
+        "auther": "ایف ایل برین",
+        "src": "dehat-ki-quwat-wa-taqat-ka-sarchashma-f-l-brayne-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "دلی والے",
+        "auther": "سید ضمیر حسن",
+        "src": "dilli-wale-syed-zameer-hasan-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "دورئ منزل ایک لکچر",
+        "auther": "شیخ عبد القادر",
+        "src": "doori-e-manzil-ek-lecture-shaikh-abdul-qadir-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "درگا سہائے سرور جہاں آبادی",
+        "auther": "محمد عاشق علی",
+        "src": "durga-sahay-suroor-jahanabadi-hindustani-adab-ke-memar-mohammad-aashiq-ali-ebooks.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "ایک لمحۂ فکریہ",
+        "auther": "حمید صدیقی",
+        "src": "ek-lamha-e-fikriya-hameed-siddiqi-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ایک قوم ایک دل",
+        "auther": "جواہر لعل نہرو",
+        "src": "ek-qaum-ek-dil-jawaharlal-nehru-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "فہرست مخطوطات طبی",
+        "auther": "سید قمر الحسن",
+        "src": "fehrist-makhtutat-e-tibbi-syed-qamar-ul-hasan-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "حلال و حرام چوپائے اور ان کے طبی فوائد",
+        "auther": "سلیم احمد",
+        "src": "halal-o-haram-chaupaye-aur-unke-tibbi-fawaid-saleem-ahmad-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "حقائق ترکی",
+        "auther": "حاجی محمد ذکریا آفندی",
+        "src": "haqaiq-e-turki-haji-mohammad-zakariya-efindi-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "حضرت غمگین دہلوی",
+        "auther": "قمر گوالیاری",
+        "src": "hazrat-ghamgeen-dehlvi-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ہندوؤں اور مسلمانوں کے تعلقات",
+        "auther": "تصدق حسین تاج",
+        "src": "hinduon-aur-musalmanon-ke-taalluqat-ebooks.pdf",
+        "type": "text"
+    },
+    {
+        "title": "ہندوؤں کا تعلق اردو سے",
+        "auther": "عبدالحلیم شرر",
+        "src": "hinduon-ka-talluq-urdu-se-abdul-halim-sharar-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "ہندوستان کی موسیقی",
+        "auther": "عبدالحلیم شرر",
+        "src": "hindustan-ki-mausiqi-abdul-halim-sharar-ebooks.pdf",
+        "type": "translation"
+    },
+    {
+        "title": "ہندوستان میں تحریک اسلامی کا آئندہ لائحہ عمل",
+        "auther": "ابوالاعلیٰ مودودی",
+        "src": "hindustan-mein-tahreek-e-islami-ka-aainda-laiha-e-amal-abul-ala-maudoodi-ebooks.pdf",
+        "type": "fiction"
+    },
+    {
+        "title": "ہندوستانی کلچر پر خطبۂ یعقوب حسن",
+        "auther": "یعقوب حسن",
+        "src": "hindustani-culture-par-khutba-e-yaaqoob-hasan-yaqoob-hasan-ebooks.pdf",
+        "type": "text"
+    }
+]
